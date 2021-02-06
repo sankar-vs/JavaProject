@@ -1,0 +1,2 @@
+bridglabz/javagradle/HelloJava.java
+ bridglabz.javagradle.HelloJava
